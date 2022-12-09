@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802816993977",
+    "project_id": "allplayerv10",
+    "storage_bucket": "allplayerv10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802816993977:android:97f957bf941259f8478968",
+        "android_client_info": {
+          "package_name": "edu.farmingdale.alrajab.allplayerv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802816993977-lh0agbtshk2smb35dlqmsf8r8s3060vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7I7yu6DLWBsaGhPYwctakFx-pehmd0Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802816993977-lh0agbtshk2smb35dlqmsf8r8s3060vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
