@@ -48,7 +48,7 @@ class OTPActivity : AppCompatActivity() {
             .setCallbacks(object : PhoneAuthProvider.OnVerificationStateChangedCallbacks() {
 
                 override fun onVerificationCompleted(p0: PhoneAuthCredential) {
-
+                    Toast.makeText(this@OTPActivity, "please try again", Toast.LENGTH_SHORT).show()
                 }
 
                 override fun onVerificationFailed(p0: FirebaseException) {
